@@ -1,0 +1,2 @@
+Ola, mundo!
+Bem-vindo ao curso de Introdução à Programação!

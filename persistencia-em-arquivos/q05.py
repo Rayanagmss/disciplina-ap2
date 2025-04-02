@@ -1,0 +1,1 @@
+#Escreva um programa que leia um arquivo de texto chamado "numeros.txt", onde cada linha contém um número inteiro. O programa deve calcular e exibir a soma de todos os números.
